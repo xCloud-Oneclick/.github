@@ -2,7 +2,7 @@
 
 Open-source building blocks behind xCloud's One-Click apps.
 
-This org holds the images, templates and tooling that power the One-Click apps on [xCloud](https://xcloud.host), a cloud hosting and server-management platform. Everything here is built from open-source upstream projects; licences stay with the upstream projects.
+This org holds the images, templates and tooling that power the [One-Click apps](https://xcloud.host/one-click-apps/) on [xCloud](https://xcloud.host), a cloud hosting and server-management platform. Everything here is built from open-source upstream projects; licences stay with the upstream projects.
 
 ## Repositories
 
@@ -36,4 +36,4 @@ Report vulnerabilities through each repository's private vulnerability reporting
 
 ## About xCloud
 
-[xcloud.host](https://xcloud.host)
+[xcloud.host](https://xcloud.host) · [Browse the One-Click apps](https://xcloud.host/one-click-apps/)
